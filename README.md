@@ -1,2 +1,0 @@
-# virtual-qdenga
-virtual
